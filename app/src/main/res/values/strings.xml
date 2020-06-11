@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="btnSubmit">SUBMIT ANSWERS</string>
+    <string name="notifySubmitPerfect">Perfect! You scoreed %s out of %s</string>
+    <string name="notifySubmitTryAgain">Try again. You scored %s out of %s</string>
+    <string name="time">Time:</string>
+    <string name="user_name">User name:</string>
+    <string name="log_in">Log In</string>
+    <string name="toast_user_name">you have to set user name</string>
+</resources>
